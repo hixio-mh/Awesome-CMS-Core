@@ -28,7 +28,7 @@
         "empty-module": "^0.0.2",
         "eslint": "^5.0.0",
         "eslint-loader": "2.0.0",
-        "eslint-plugin-react": "7.10.0",
+        "eslint-plugin-react": "7.26.0",
         "file-loader": "1.1.11",
         "grunt": "1.0.3",
         "grunt-contrib-clean": "1.1.0",
